@@ -16,14 +16,14 @@ RAY AUTRA TEAM
 
 
 Install the necessary Python dependencies using the `requirements.txt` file.
-
-    ```bash
-       pip install -r requirements.txt
+```
+pip install -r requirements.txt
+```
 Launch the app
-
-     ```
-     python ED-RAY-AUTRA_app.py
-
+ ```
+  python ED-RAY-AUTRA_app.py
+```
+    
 
 
 ## Project Overview
