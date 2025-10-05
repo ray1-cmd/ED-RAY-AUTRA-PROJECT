@@ -1,0 +1,37 @@
+{
+  "author": "RAY AUTRA TEAM",
+  "created_at_utc": "2025-10-04T13:42:01Z",
+  "model_type": "PyTorch_MLP_tabular",
+  "model_file": "model.pth",
+  "checkpoint_file": "checkpoint.pt",
+  "preprocessor_file": "preprocessor.joblib",
+  "input_dim": 47,
+  "hidden_layers": [
+    256,
+    128
+  ],
+  "output_dim": 3,
+  "num_classes": 3,
+  "hyperparameters": {
+    "batch_size": 128,
+    "epochs_requested": 40,
+    "learning_rate": 0.001,
+    "patience": 8
+  },
+  "data_split": {
+    "train_size": 7650,
+    "val_size": 957,
+    "test_size": 957
+  },
+  "target_mapping": {
+    "CANDIDATE": 0,
+    "CONFIRMED": 1,
+    "FALSE POSITIVE": 2
+  },
+  "final_metrics": {
+    "best_epoch": 27,
+    "test_loss": 0.2747343909092707,
+    "test_accuracy": 0.9278996865203761
+  },
+  "notes": "Preprocessor is a ColumnTransformer (num imputer+scaler, cat imputer+onehot). High-cardinality cat columns were dropped automatically."
+}

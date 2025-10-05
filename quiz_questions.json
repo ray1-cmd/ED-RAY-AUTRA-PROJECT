@@ -1,0 +1,222 @@
+[
+  {
+    "question": "What is an exoplanet?",
+    "options": [
+      "A planet outside our solar system",
+      "A moon of Jupiter",
+      "A type of star",
+      "An asteroid"
+    ],
+    "correct": 0,
+    "explanation": "An exoplanet is any planet that orbits a star outside our solar system."
+  },
+  {
+    "question": "Which method is most commonly used to detect exoplanets?",
+    "options": [
+      "Direct imaging",
+      "Transit method",
+      "Gravitational lensing",
+      "Astrometry"
+    ],
+    "correct": 1,
+    "explanation": "The transit method detects planets by measuring the dimming of a star's light when a planet passes in front of it."
+  },
+  {
+    "question": "What is the habitable zone?",
+    "options": [
+      "The area around a black hole",
+      "The region where liquid water can exist on a planet's surface",
+      "The center of a galaxy",
+      "The asteroid belt"
+    ],
+    "correct": 1,
+    "explanation": "The habitable zone is the region around a star where conditions might be right for liquid water to exist."
+  },
+  {
+    "question": "What was the first exoplanet discovered orbiting a sun-like star?",
+    "options": [
+      "Proxima Centauri b",
+      "51 Pegasi b",
+      "Kepler-186f",
+      "TRAPPIST-1e"
+    ],
+    "correct": 1,
+    "explanation": "51 Pegasi b was discovered in 1995 and was the first exoplanet found orbiting a sun-like star."
+  },
+  {
+    "question": "What is a Hot Jupiter?",
+    "options": [
+      "A small rocky planet",
+      "A gas giant very close to its star",
+      "A planet made of lava",
+      "An ice giant"
+    ],
+    "correct": 1,
+    "explanation": "Hot Jupiters are gas giant exoplanets that orbit very close to their host stars, resulting in high surface temperatures."
+  },
+  {
+    "question": "Which space telescope has discovered the most exoplanets?",
+    "options": [
+      "Hubble Space Telescope",
+      "James Webb Space Telescope",
+      "Kepler Space Telescope",
+      "Spitzer Space Telescope"
+    ],
+    "correct": 2,
+    "explanation": "The Kepler Space Telescope has discovered over 2,600 confirmed exoplanets during its mission."
+  },
+  {
+    "question": "What is the radial velocity method?",
+    "options": [
+      "Measuring a star's wobble caused by an orbiting planet",
+      "Taking direct pictures of planets",
+      "Measuring light curves",
+      "Using gravitational waves"
+    ],
+    "correct": 0,
+    "explanation": "The radial velocity method detects exoplanets by measuring the wobble in a star's motion caused by the gravitational pull of orbiting planets."
+  },
+  {
+    "question": "What is a Super-Earth?",
+    "options": [
+      "A planet exactly like Earth",
+      "A planet larger than Earth but smaller than Neptune",
+      "The largest planet in the universe",
+      "A planet with super intelligence"
+    ],
+    "correct": 1,
+    "explanation": "Super-Earths are exoplanets with masses between Earth and Neptune, typically 2-10 times Earth's mass."
+  },
+  {
+    "question": "How many exoplanets have been confirmed as of 2024?",
+    "options": [
+      "About 500",
+      "About 1,000",
+      "Over 5,000",
+      "Over 10,000"
+    ],
+    "correct": 2,
+    "explanation": "As of 2024, over 5,000 exoplanets have been confirmed, with thousands more candidates awaiting confirmation."
+  },
+  {
+    "question": "What is the closest known exoplanet to Earth?",
+    "options": [
+      "Kepler-452b",
+      "Proxima Centauri b",
+      "TRAPPIST-1d",
+      "51 Pegasi b"
+    ],
+    "correct": 1,
+    "explanation": "Proxima Centauri b orbits Proxima Centauri, the closest star to our Sun, about 4.2 light-years away."
+  },
+  {
+    "question": "What causes a transit in exoplanet detection?",
+    "options": [
+      "A planet exploding",
+      "A planet passing in front of its star",
+      "A star going supernova",
+      "Two planets colliding"
+    ],
+    "correct": 1,
+    "explanation": "A transit occurs when a planet passes directly between its star and the observer, causing a temporary dimming of the star's light."
+  },
+  {
+    "question": "What is the TRAPPIST-1 system famous for?",
+    "options": [
+      "Having the largest known exoplanet",
+      "Having 7 Earth-sized planets",
+      "Being the oldest planetary system",
+      "Having a planet made of diamond"
+    ],
+    "correct": 1,
+    "explanation": "TRAPPIST-1 is famous for having seven Earth-sized planets, several of which are in the habitable zone."
+  },
+  {
+    "question": "What is atmospheric spectroscopy used for?",
+    "options": [
+      "Measuring planet size",
+      "Determining planet mass",
+      "Analyzing the composition of a planet's atmosphere",
+      "Calculating orbital period"
+    ],
+    "correct": 2,
+    "explanation": "Atmospheric spectroscopy analyzes the light passing through a planet's atmosphere to determine its chemical composition."
+  },
+  {
+    "question": "What is a rogue planet?",
+    "options": [
+      "A planet that orbits backwards",
+      "A planet that doesn't orbit any star",
+      "A planet with no atmosphere",
+      "A planet that changes color"
+    ],
+    "correct": 1,
+    "explanation": "Rogue planets are planets that don't orbit any star and instead drift through interstellar space."
+  },
+  {
+    "question": "What does KOI stand for in exoplanet research?",
+    "options": [
+      "Kepler Object of Interest",
+      "Known Orbital Inclination",
+      "Kinetic Orbital Index",
+      "Kepler Observation Instrument"
+    ],
+    "correct": 0,
+    "explanation": "KOI stands for Kepler Object of Interest, referring to potential exoplanet candidates identified by the Kepler mission."
+  },
+  {
+    "question": "What is the Goldilocks zone another name for?",
+    "options": [
+      "The asteroid belt",
+      "The habitable zone",
+      "The Kuiper belt",
+      "The Oort cloud"
+    ],
+    "correct": 1,
+    "explanation": "The Goldilocks zone is another name for the habitable zone, where conditions are 'just right' for liquid water."
+  },
+  {
+    "question": "What is tidal locking?",
+    "options": [
+      "When a planet's rotation matches its orbital period",
+      "When two planets collide",
+      "When a planet has no moons",
+      "When a star explodes"
+    ],
+    "correct": 0,
+    "explanation": "Tidal locking occurs when a planet's rotation period equals its orbital period, causing one side to always face its star."
+  },
+  {
+    "question": "Which of these is NOT a method for detecting exoplanets?",
+    "options": [
+      "Transit method",
+      "Radial velocity",
+      "Solar flare analysis",
+      "Direct imaging"
+    ],
+    "correct": 2,
+    "explanation": "Solar flare analysis is not a recognized method for detecting exoplanets. The main methods are transit, radial velocity, and direct imaging."
+  },
+  {
+    "question": "What is an Earth analog?",
+    "options": [
+      "A planet exactly the same size as Earth",
+      "A planet with similar conditions to Earth",
+      "A moon of Earth",
+      "An artificial planet"
+    ],
+    "correct": 1,
+    "explanation": "An Earth analog is an exoplanet with similar size, composition, and conditions to Earth, potentially capable of supporting life."
+  },
+  {
+    "question": "What does the James Webb Space Telescope primarily study about exoplanets?",
+    "options": [
+      "Their color",
+      "Their atmospheres and composition",
+      "Their magnetic fields",
+      "Their moons"
+    ],
+    "correct": 1,
+    "explanation": "The James Webb Space Telescope uses infrared observations to study exoplanet atmospheres and chemical compositions in detail."
+  }
+]

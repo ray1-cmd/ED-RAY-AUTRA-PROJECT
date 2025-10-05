@@ -1,0 +1,48 @@
+# ED-RAY AUTRA - Exoplanet Detection System
+# NASA SPACE APP CHALLENGE 2025
+# RAY AUTRA TEAM
+
+# ==================== CORE DEPENDENCIES ====================
+# GUI Framework
+PyQt5>=5.15.0
+qt-material>=2.14
+
+# Text-to-Speech (Accessibility)
+pyttsx3>=2.90
+
+# ==================== ML DEPENDENCIES (OPTIONAL) ====================
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+joblib>=1.3.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# ==================== VISUALIZATION (OPTIONAL) ====================
+# Plotting
+matplotlib>=3.7.0
+plotly>=5.14.0
+
+# Image Processing
+Pillow>=10.0.0
+
+# ==================== UTILITIES ====================
+# HTTP Requests
+requests>=2.31.0
+
+# ==================== NOTES ====================
+# Installation:
+#   pip install -r requirements.txt
+#
+# Full Installation (with ML):
+#   pip install -r requirements.txt
+#
+# Platform-specific notes:
+#   - Windows: All dependencies should work out of the box
+#   - Linux: May need to install system TTS engines
+#   - macOS: Uses built-in TTS engines
