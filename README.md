@@ -17,15 +17,14 @@ RAY AUTRA TEAM
 
 Install requirements
 
-        ```bash
+        ```
         pip install -r requirements.txt
 
 
 Launch the app
- ```bash
-python ED-RAY-AUTRA_app.py
-        
 
+     ```
+     python ED-RAY-AUTRA_app.py
 
 
 
