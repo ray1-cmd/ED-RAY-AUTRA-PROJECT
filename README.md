@@ -15,12 +15,10 @@ NASA SPACE APP CHALLENGE 2025
 RAY AUTRA TEAM
 
 
-Install requirements
+Install the necessary Python dependencies using the `requirements.txt` file.
 
-        ```
-        pip install -r requirements.txt
-
-
+    ```bash
+       pip install -r requirements.txt
 Launch the app
 
      ```
